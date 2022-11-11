@@ -1,0 +1,27 @@
+.container {
+  width: 100%;
+  display: flex;
+  .bar {
+    width: 50%;
+    height: 50vh;
+  }
+  .line {
+    width: 50%;
+    height: 50vh;
+  }
+}
+h1 {
+  text-align: center;
+}
+
+.chart-week {
+  width: 100%;
+  .bar-week {
+    width: 100%;
+    height: 70vh;
+  }
+  .line-week {
+    width: 100%;
+    height: 70vh;
+  }
+}
